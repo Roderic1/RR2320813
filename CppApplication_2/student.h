@@ -12,7 +12,6 @@ struct Student{
     unsigned int sid;
     unsigned short score;
     unsigned char grade;
-    
 };
 
 #endif /*STUDENT_H*/
